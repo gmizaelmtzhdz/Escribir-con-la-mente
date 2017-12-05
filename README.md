@@ -3,3 +3,4 @@ Proyecto para escribir con la mente: entrenando una red neuronal, haciendo uso d
 
 * Lenguaje de programación usado: Python
 * Diadema: Neurosky Mindwave 
+* Red neuronal: Retropropagación de errores
